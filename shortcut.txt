@@ -1,0 +1,9 @@
+1: command + c => copy
+2: command + v => paste
+3: command + a => select all
+
+
+
+1: git add -A
+2: git commit -m "msg here"
+3: git push 
